@@ -1,7 +1,7 @@
 {
-	"host": "ManucrackYTprro.aternos.me",
-	"port": "28153",
-	"username": "Mr Origami",
+	"host": "ugandasmp.aternos.me",
+	"port": "27161",
+	"username": "UgandaBot",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
